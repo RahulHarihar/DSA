@@ -39,6 +39,7 @@
 - [Square Root using BinarySearch](Maths/square-root.java)
 - [Roman Numerals Conversion](Maths/roman-numerals.java)
 - [Permutation Sequence](Maths/permutation_sequence.java)
+- [GCD (Greatest Common Divisor) and LCM (Least Common Multiple) of two numbers](Maths/gcd-lcm.java)
 
 ## Queues
 
